@@ -1,7 +1,7 @@
 # onboarding-guide
 A guide for creating a code review and package onboarding process
 
-# Topics
+## Topics
 
 - Scope
 - Package standards
@@ -14,7 +14,7 @@ A guide for creating a code review and package onboarding process
 - Automated checking
 - Community management and codes of conduct
 
-# Outreach
+## Outreach
 
 - R-ish Groups that may want to do this:
     -   cloudyr
@@ -25,6 +25,6 @@ A guide for creating a code review and package onboarding process
     -   More statistically-minded groups interested in reviewing methods
     -   Groups that host curate docker images?
 
-# Various brainstorming
+## Various brainstorming
 
 -   Code review at smaller scale: scripts, analyses
